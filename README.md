@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wiil
-- 👀 I’m interested in Machine Learning and cloud development 
+- 👀 I’m interested in Machine Learning and cloud development (AWS,Azure)
 - 🌱 I’m currently learning  The math  behind for  Deep learning Algorithm  
 
 <!---
