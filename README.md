@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wiil
 - 👀 I’m interested in Machine Learning and cloud development (AWS,Azure)
-- 🌱 I’m currently learning  The math  behind for  Deep learning Algorithm  
+- 🌱 
 
 <!---
 will851126/will851126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
