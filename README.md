@@ -1,5 +1,7 @@
 - 👋 Hi, I’m wiil
-- 👀 I’m interested in Machine Learning and cloud development (AWS,Azure)
+- Software Engineer with 2+ years of experience delivering scalable, production-grade systems across diverse tech
+stacks. Strong in problem-solving, system reliability, and execution, with hands-on experience working in cross-functional,
+global teams. Continuously focused on learning, improving system quality, and driving measurable technical impact.
 
 
 <!---
